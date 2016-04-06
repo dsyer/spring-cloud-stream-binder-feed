@@ -1,0 +1,2 @@
+feed:\
+org.springframework.cloud.stream.binder.feed.config.FeedServiceAutoConfiguration
